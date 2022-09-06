@@ -3,6 +3,24 @@
 
 <img src="https://64.media.tumblr.com/04eb7d5b48cd621875cb36037bb3c55d/tumblr_mjjgwvUtKU1qbn6jwo1_500.gifv" width="520" height="400"/>
 
+<table>
+<caption>Pedro Calheiros</caption>
+<thead>
+<tr>
+<th colspan="2">Quick Info</th>
+</tr>
+</thead>
+<tbody>
+<tr><th scope='row'>Name</th><td>Pedro Luis Calheiros da Silva</td></tr>
+<tr><th scope='row'>Born</th><td><time datetime="1996-02-13 08:00">13 February, 1996</time></td></tr>
+<tr><th scope='row'>Education</th><td>MBA</td></tr>
+<tr><th scope='row'>Alma mater</th><td>Federal Institute of São Paulo - IFSP</td></tr>
+<tr><th scope='row'>Nationality</th><td>Brazilian</td></tr>
+<!--<tr><th scope='row'>Occupation</th><td>Web Developer</td></tr>
+<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, SEO</td></tr>-->
+</tbody>
+</table>
+
 ### Contatos:
 
 <div>
