@@ -4,7 +4,6 @@
 <img src="https://64.media.tumblr.com/04eb7d5b48cd621875cb36037bb3c55d/tumblr_mjjgwvUtKU1qbn6jwo1_500.gifv" width="520" height="400"/>
 
 <table>
-<caption>Pedro Calheiros</caption>
 <thead>
 <tr>
 <th colspan="2">Quick Info</th>
