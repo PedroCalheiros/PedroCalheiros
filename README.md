@@ -1,7 +1,7 @@
 ## Elen síla lúmenn' omentielvo 🧝
 ### My name is Pedro Calheiros!
 
-<img src='cid=ecf05e47i368kmr9m2orhd8tot3ej40v8pdfsd2vd1d2syi0&rid=giphy.gif&ct=g' alt="Please refresh the page if the meme doesn't show up." width=480 heigth=320>
+<img src='https://64.media.tumblr.com/04eb7d5b48cd621875cb36037bb3c55d/tumblr_mjjgwvUtKU1qbn6jwo1_500.gifv' alt="Please refresh the page if the meme doesn't show up." width=480 heigth=320>
 
 <table>
 <thead>
