@@ -1,5 +1,5 @@
-## Saudações 🖖
-### Me chamo Pedro Calheiros e é uma honra te ter aqui!
+## Elen síla lúmenn' omentielvo 🧝
+### My name is Pedro Calheiros!
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
