@@ -12,11 +12,10 @@
 <tbody>
 <tr><th scope='row'>Name</th><td>Pedro Luis Calheiros da Silva</td></tr>
 <tr><th scope='row'>Born</th><td><time datetime="1996-02-13 08:00">13 February, 1996</time></td></tr>
-<tr><th scope='row'>Education</th><td>MBA</td></tr>
+<tr><th scope='row'>Education</th><td>Technologist | MBA</td></tr>
 <tr><th scope='row'>Alma mater</th><td>Federal Institute of São Paulo - IFSP</td></tr>
 <tr><th scope='row'>Nationality</th><td>Brazilian</td></tr>
-<!--<tr><th scope='row'>Occupation</th><td>Web Developer</td></tr>
-<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, SEO</td></tr>-->
+<tr><th scope='row'>Work</th><td>Embedded Systems | Web</td></tr>
 </tbody>
 </table>
 
@@ -78,7 +77,7 @@
 </p>
 
 
-### 📝 Contact me!
+## 📝 Contact me!
 
 <div>
 <a href="https://www.youtube.com/channel/UCyZaRw9NoYvdv0hXcusjBvQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
