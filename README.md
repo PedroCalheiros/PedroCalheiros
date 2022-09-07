@@ -1,7 +1,7 @@
 ## Saudações 🖖
 ### Me chamo Pedro Calheiros e é uma honra te ter aqui!
 
-<img src="https://64.media.tumblr.com/04eb7d5b48cd621875cb36037bb3c55d/tumblr_mjjgwvUtKU1qbn6jwo1_500.gifv" width="520" height="400"/>
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <table>
 <thead>
