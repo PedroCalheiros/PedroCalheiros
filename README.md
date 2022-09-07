@@ -1,7 +1,7 @@
 ## Elen síla lúmenn' omentielvo 🧝
 ### My name is Pedro Calheiros!
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='cid=ecf05e47i368kmr9m2orhd8tot3ej40v8pdfsd2vd1d2syi0&rid=giphy.gif&ct=g' alt="Please refresh the page if the meme doesn't show up." width=480 heigth=320>
 
 <table>
 <thead>
